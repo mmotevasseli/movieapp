@@ -3,6 +3,9 @@ A Movie web application Frontend based on Mastering React course of Mosh Hamedan
 You can see backend of this web application in :
 https://github.com/mosh-hamedani/vidly-api-node
 
+you can see deployed project in :
+https://enigmatic-brook-08331.herokuapp.com/movies
+
 # Getting Started with Create React App
 
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
