@@ -1,4 +1,4 @@
-A Movie web application Frontend based on Mastering React course of Mosh Hamedani.
+A Movie web application Frontend using Reactjs based on Mastering React course of Mosh Hamedani.
 
 You can see backend of this web application in :
 https://github.com/mosh-hamedani/vidly-api-node
